@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Belly Button Challenge
 Directory Structure/
   ├── index.html
   └── static/
@@ -20,4 +20,6 @@ The deliverable for this assigment is an interactive dashboard that explores the
 
 ![image](https://github.com/amz007/belly-button-challenge/assets/161349672/e5dc48a4-064f-4a96-8714-402b7bdb420c)
 
+# Resources Used
+Chat GPT, Stack Overflow and previous assignments were used to help me troubleshoot problems associated with importing tables and structuring syntax appropriately.
 
